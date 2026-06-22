@@ -1,0 +1,1 @@
+export const SEV_COLORS = { CRITICAL: '#EF4444', HIGH: '#F59E0B', MEDIUM: '#3B82F6' };
